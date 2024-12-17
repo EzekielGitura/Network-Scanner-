@@ -1,0 +1,5 @@
+# Network Scanner Dependencies
+scapy>=2.4.5
+python-nmap
+socket
+logging
